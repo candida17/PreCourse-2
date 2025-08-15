@@ -16,6 +16,7 @@ class LinkedList:
         
   
     def push(self, new_data):
+      #push to the end of the list
       new_node = Node(new_data)
       if not self.head:
         self.head = new_node
