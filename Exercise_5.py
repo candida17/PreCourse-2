@@ -18,7 +18,7 @@ def partition(arr, l, h):
 
 def quickSortIterative(arr, l, h):
   #write your code here
-  #create stack
+  #use stack to remove recursion
   stack = [(l, h)]
   while stack:
     l, h = stack.pop()
