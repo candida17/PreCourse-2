@@ -1,3 +1,9 @@
+#Time Complexity 
+#Best Case ->O(1)
+#Average Case ->O(log n)
+#Worst case ->O(log n)
+#Space complexity-> O(1)
+
 # Python code to implement iterative Binary  
 # Search. 
   
